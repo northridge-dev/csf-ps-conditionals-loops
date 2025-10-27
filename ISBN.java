@@ -13,7 +13,7 @@
  * which is a multiple of 11. 
  *
  * Example: for the ISBN-10 number 1540678873, the check digit is '3' because
- * (1*10 + 5*9 + 4*8 + 0*7 + 6*6 + 7*5 + 8*4 + 8*3 + 7*2 + 3*1) = 253,
+ * (1*10 + 5*9 + 4*8 + 0*7 + 6*6 + 7*5 + 8*4 + 8*3 + 7*2 + 3*1) = 231,
  * which is a multiple of 11.
  */
 public class ISBN 
